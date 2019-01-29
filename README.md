@@ -2,4 +2,4 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/latimerb/ECE4001_7001.git/master)
 
-.. image:: https://mybinder.org/badge_logo.svg :target: https://mybinder.org/v2/gh/latimerb/ECE4001_7001.git/master
+
